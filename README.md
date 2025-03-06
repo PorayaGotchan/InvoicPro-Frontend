@@ -1,42 +1,51 @@
-# Getting Started with POSWeb
-npm start in cmd and you'll get this Home page
-And then you've read now !!
 
-![Home_ProductManagement](https://github.com/user-attachments/assets/95560bfd-a0f7-4c1e-9e7f-2dbaa2b9f1a2)
+การใช้งาน Invoicpro Web
 
-## You can do CRUD by this method
+เปิดไฟล์ Frontend ขึ้นมา แล้วติดตั้ง npm i เพื่อทำการรันไฟล์ Frontend ใช้คำสั่ง npm start เพื่อรันเปิดโปรเจค แล้วคุณจะได้หน้านี้มา  
+![image](https://github.com/user-attachments/assets/d320d101-00b6-4054-b84a-afc550049815)  
 
-### -Create
-Click on Create New button
+โดยโปรเจคนี้สามารถทำการ Creat Edit Delece ได้
 
-![GoToCreate](https://github.com/user-attachments/assets/2e1d04e4-4562-4ab0-a859-3743779ff128)
+การ Creat
 
-Enter your information you want
+1.กดปุ่ม Create New  
+![image](https://github.com/user-attachments/assets/0a843fde-a683-483a-81df-815a6ccb9edc)  
+2.กรอกข้อมูลให้ครบ  
+![image](https://github.com/user-attachments/assets/a7e120a6-2dfc-46a2-967d-b161acae9aa3)  
+3.จากนั้นกดปุ่ม Submit  
+![image](https://github.com/user-attachments/assets/cf06e8e4-c895-42e8-860c-1024a4b77b88)  
+4.แล้วคุณจากได้ข้อมูลใหม่ขึ้นในตาราง  
+![image](https://github.com/user-attachments/assets/290b33cc-250f-45b1-a8a1-7be31e87ea40)  
 
-![CreateAndSubmit](https://github.com/user-attachments/assets/13011149-31cd-4fcf-9d35-6bb6ac3d4787)
+การ Edit  
+1.ให้ทำการกดปุ่ม Edit  
+![image](https://github.com/user-attachments/assets/43a1f355-6ae3-4276-acca-ddd6fab89493)  
+2.แก้ไขข้อมูล  
+![image](https://github.com/user-attachments/assets/a24633f1-8a1b-48ff-8110-dee29de19d59)  
+3.จากนั้นกดปุ่ม Submit  
+![image](https://github.com/user-attachments/assets/b418cb38-c7d0-4deb-8175-5b9f76d31264)  
+4.คุณจะได้ข้อมูลที่แก้แล้วขึ้นในตาราง  
+![image](https://github.com/user-attachments/assets/7ed9324b-84a9-4936-8d1d-9bfeece9e70d)  
 
-You've created product now !!
-![ProductCreated](https://github.com/user-attachments/assets/fa6b3589-8bed-451b-851e-03b398d7d31d)
+การ Delece  
+1.กดปุ่ม Delece  
+![image](https://github.com/user-attachments/assets/f4688bcf-8db9-41d1-9837-42913915d830)  
+2.จะมีข้อความขึ้นมาว่า Are you sure ? ให้กด ok  
+![image](https://github.com/user-attachments/assets/826d64fd-60b0-4c5e-8daf-f3b8aff45289)  
+3.ข้อมูลในตารางจะหายไป  
+![image](https://github.com/user-attachments/assets/96f5a6f1-b94d-4866-9a3b-5c11d65fa0e0)
 
-### -Update
-Click on edit button, let's update Test!
 
-![Edit](https://github.com/user-attachments/assets/e229066a-85ee-4071-a9d4-0c3782520f21)
 
-Edit your infomation as you want, and then submit!
 
-![Update](https://github.com/user-attachments/assets/a51b724b-c06f-4920-9a1f-493065f8238c)
 
-And now you've updated yor information now!!
-![Updated](https://github.com/user-attachments/assets/01fc877c-6953-4635-986b-e8e87f8847e8)
 
-### -Delete
-Let's click on delete button, and confirm to delete!
-![Delete](https://github.com/user-attachments/assets/6615dff8-0459-4e63-87aa-1d67de9b627a)
 
-And now you've delete Ichitan!!
 
-![Deleted](https://github.com/user-attachments/assets/77405ab3-c52a-4a13-8f23-025eeae12453)
+
+
+
+
 
 
 
